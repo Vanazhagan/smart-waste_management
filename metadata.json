@@ -1,0 +1,11 @@
+{
+  "name": "Remix Tamil Nadu Municipal Smart Waste Management",
+  "description": "Intelligent, proactive, and predictive municipal waste management platform for Tamil Nadu municipalities with AI classification, IoT smart bins, and GIS analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
